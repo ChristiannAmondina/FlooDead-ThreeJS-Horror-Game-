@@ -2,8 +2,6 @@
 
 > *You struggle in the flood. But as the water rises... do you hear something else?*
 
-⚠️ **Note:** This game is in early demo phase. Some features like puzzles and door logic are incomplete, but the game is playable and interactive.  
-🔑 **Door password (for demo):** `1532`
 
 ---
 
@@ -27,6 +25,9 @@ After a catastrophic earthquake triggers a massive tsunami and storm, you're tra
 Explore your surroundings, uncover clues, and find a way to escape — before the flood (and the beast) finds you first.
 
 ---
+⚠ **Note:** This game is in early demo phase. Some features like puzzles and door logic are incomplete, but the game is playable and interactive.  
+🔑 **Door password (for demo):** `1532`
+
 
 ## Features ✨
 
