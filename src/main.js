@@ -1695,7 +1695,7 @@ let candleMixer;
 // Load the .glb model for the candle
 // Load the .glb model for the candle
 loader.load(
-  '/images/models/copper_candlestick.glb',
+  './images/models/copper_candlestick.glb',
   function (gltf) {
     lightObject = gltf.scene;
 
