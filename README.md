@@ -6,7 +6,7 @@
 
 ## 🎥 Screenshots
 
-| ![ss1](./readme/ss1.png) ![ss1](./readme/ss4.png)  | ![ss2](./readme/ss2.png) ![ss1](./readme/ss6.png)  | ![ss3](./readme/ss3.png) |
+| ![ss1](./readme/ss1.png) ![ss1](./readme/ss4.png)  | ![ss2](./readme/ss2.png) ![ss1](./readme/ss6.png)  | ![ss3](./readme/ss3.png) ![ss5](./readme/ss6.png) |
 |:------------------------------:|:------------------------------:|:------------------------------:|
 | Escape Puzzle                | Monster Encounter                | Discover the truth
 
