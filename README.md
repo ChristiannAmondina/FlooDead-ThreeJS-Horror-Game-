@@ -5,7 +5,6 @@
 
 ---
 
-## 🎥 Screenshots
 
 | ![ss1](./readme/ss1.png) ![ss4](./readme/ss4.png)  | ![ss2](./readme/ss2.png) ![ss7](./readme/ss7.png)  | ![ss3](./readme/ss3.png) ![ss5](./readme/ss5.png) |
 |:------------------------------:|:------------------------------:|:------------------------------:|
