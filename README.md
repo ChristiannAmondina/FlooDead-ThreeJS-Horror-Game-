@@ -1,6 +1,6 @@
-# Floodead 🧟‍♂️🌊
+# Floodead 🩸
 
-> *Survive the flood. Escape the monster. Or become one of the drowned.*
+> *You struggle in the flood. But as the water rises, Do you hear something else?.*
 
 ---
 
