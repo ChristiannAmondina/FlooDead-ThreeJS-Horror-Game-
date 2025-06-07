@@ -1,38 +1,41 @@
 # Floodead 🩸
 
-> *You struggle in the flood. But as the water rises, Do you hear something else?.*
+> *You struggle in the flood. But as the water rises... do you hear something else?*
+
+⚠️ **Note:** This game is in early demo phase. Some features like puzzles and door logic are incomplete, but the game is playable and interactive.  
+🔑 **Door password (for demo):** `1532`
 
 ---
 
 ## 🎥 Screenshots
 
-| ![ss1](./readme/ss1.png) ![ss4](./readme/ss4.png)  | ![ss2](./readme/ss2.png) ![ss7](./readme/ss7.png)  | ![ss3](./readme/ss3.png) ![ss5](./readme/ss5.png) 
+| ![ss1](./readme/ss1.png) ![ss4](./readme/ss4.png)  | ![ss2](./readme/ss2.png) ![ss7](./readme/ss7.png)  | ![ss3](./readme/ss3.png) ![ss5](./readme/ss5.png) |
 |:------------------------------:|:------------------------------:|:------------------------------:|
-| Escape Puzzle                | Monster Encounter                | Discover the truth
-
+| Escape Puzzle                | Monster Encounter                | Discover the Truth             |
 
 ---
 
 ## About the Game 🎮
 
-**Floodead** is a browser-based horror survival game created using **Three.js**, a powerful JavaScript 3D library. The game leverages WebGL and GLSL shaders to deliver immersive water effects, lighting, and fog directly in your browser. The monster AI, environmental effects, and gameplay logic are all built with JavaScript, providing an atmospheric, real-time 3D experience.
+**Floodead** is a browser-based horror survival game built using **Three.js**, a 3D graphics library that runs directly in the browser via WebGL. The game simulates a haunting flood scenario enhanced by dynamic water effects, fog, eerie lighting, and real-time monster AI. Built with JavaScript and shaders, this experience offers tension, atmosphere, and exploration — all in the browser.
 
 ---
 
 ## Story Synopsis 📖
 
-After a massive earthquake triggers a tsunami and storm, you wake up trapped inside a flooded office building. Injured by falling debris, you find yourself alone in the dark, with rising floodwaters threatening your survival. But worse, a giant monster, stranded alongside you, stalks the corridors. Your goal is to explore the building, collect clues, and find a way to escape before the flood and the beast close in.
+After a catastrophic earthquake triggers a massive tsunami and storm, you're trapped inside a flooded office building. You wake up injured and alone, surrounded by darkness and rising waters. But you're not alone — something monstrous was swept in with the flood.  
+Explore your surroundings, uncover clues, and find a way to escape — before the flood (and the beast) finds you first.
 
 ---
 
 ## Features ✨
 
-- 🌊 Dynamic flood simulation with realistic water effects  
-- 💡 Eerie lighting and fog created using GLSL shaders  
-- 🖥️ Real-time 3D rendering powered by Three.js  
-- 👾 Reactive monster AI sensitive to player movement and sounds  
-- 🧩 Puzzle-solving elements (currently in demo stage)  
-- 🔊 Immersive ambient soundscape including storm and monster noises  
+- 🌊 Realistic water and flood simulation using shaders  
+- 💡 Atmospheric lighting and fog for horror immersion  
+- 🧠 AI-driven monster that reacts to player movement  
+- 🧩 Puzzle mechanics and locked doors (demo version includes password: `1532`)  
+- 🔊 Ambient audio design with storm and creature sounds  
+- 🕹️ WASD or Arrow Key movement with first-person navigation  
 
 ---
 
@@ -46,45 +49,42 @@ Follow these steps to run the game on your local machine:
     cd FlooDead-ThreeJS-Horror-Game-
     ```
 
-2. Install dependencies and run with Vite:
+2. Install dependencies:
     ```bash
+    npm install three
     npm install --save-dev vite
+    ```
+
+3. Start the development server:
+    ```bash
     npx vite
     ```
 
-3. Open the URL shown in your terminal (usually `http://localhost:5173`) in a modern browser (Chrome or Firefox recommended)
+4. Open the URL shown in your terminal (usually `http://localhost:5173`) in your browser
 
-4. Use **WASD** or arrow keys to move your character
-
-5. Explore the office, avoid the monster, and gather clues
-
-6. Solve puzzles to unlock doors and escape
-
----
-
-## Demo Note ⚠️
-
-This game is currently in demo version. Some puzzles and door mechanics are still in development.  
-🔑 **Door password (for demo):** `1532`
+5. Use **WASD** or arrow keys to move your character  
+6. Explore the building, avoid the monster, and gather clues  
+7. Solve puzzles to unlock doors and escape
 
 ---
 
 ## Tech Stack 🛠️
 
-- [Three.js](https://threejs.org/) for 3D rendering  
-- WebGL & GLSL shaders for lighting, water, and fog effects  
-- JavaScript for game logic and AI behavior  
-- [Vite](https://vitejs.dev/) for fast local development  
+- [Three.js](https://threejs.org/) — Web-based 3D rendering engine  
+- WebGL & GLSL — for shader-based lighting, fog, and water effects  
+- JavaScript — for gameplay logic and monster AI  
+- [Vite](https://vitejs.dev/) — Lightning-fast dev environment  
 
 ---
 
 ## Contributing 🤝
 
-Contributions, bug reports, and suggestions are welcome!  
-Feel free to open [issues](https://github.com/parkqdev/FlooDead-ThreeJS-Horror-Game-/issues) or submit pull requests.
+Found a bug? Have suggestions? Want to help expand the game?  
+Feel free to open an [issue](https://github.com/parkqdev/FlooDead-ThreeJS-Horror-Game-/issues) or submit a pull request. Feedback is appreciated!
 
 ---
 
 ## License 📄
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.  
+See [LICENSE](./LICENSE) for more information.
