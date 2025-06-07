@@ -39,6 +39,13 @@ Explore your surroundings, uncover clues, and find a way to escape — before th
 
 ---
 
+## 🎮 Try It Online
+
+Play **Floodead** instantly in your browser—no setup needed:  
+[https://floodead-threejs-horrorgame.vercel.app](https://floodead-threejs-horrorgame.vercel.app)
+
+---
+
 ## How to Play Locally 🕹️
 
 Follow these steps to run the game on your local machine:
