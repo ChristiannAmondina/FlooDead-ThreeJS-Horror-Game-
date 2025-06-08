@@ -2,10 +2,9 @@
 
 > *You struggle in the flood. But as the water rises... do you hear something else?*
 
-<table align="center">
-      <img src="./readme/PRESENTATION3.png" alt="Setup Image" width="90%" />
-</table>
----
+<p align="center">
+  <img src="./readme/PRESENTATION3.png" alt="Setup Image" width="90%" />
+</p>
 
 
 | ![ss1](./readme/ss1.png) ![ss4](./readme/ss4.png)  | ![ss2](./readme/ss2.png) ![ss7](./readme/ss7.png)  | ![ss3](./readme/ss3.png) ![ss5](./readme/ss5.png) |
