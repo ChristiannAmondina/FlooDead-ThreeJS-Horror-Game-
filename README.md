@@ -2,8 +2,8 @@
 
 > *You struggle in the flood. But as the water rises... do you hear something else?*
 
-<table>
-      <img src="./readme/PRESENTATION2.png" alt="Setup Image" width="45%" />
+<table align="center">
+      <img src="./readme/PRESENTATION2.png" alt="Setup Image" width="100%" />
 </table>
 ---
 
