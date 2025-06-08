@@ -3,7 +3,7 @@
 > *You struggle in the flood. But as the water rises... do you hear something else?*
 
 <table>
-    ![PRESENTATION2(./PRESENTATION2.png)
+      <img src="./readme/PRESENTATION2.png" alt="Setup Image" width="45%" />
 </table>
 ---
 
