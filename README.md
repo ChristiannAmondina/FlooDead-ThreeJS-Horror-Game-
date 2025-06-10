@@ -94,6 +94,7 @@ Feel free to open an [issue](https://github.com/parkqdev/FlooDead-ThreeJS-Horror
 
 ## License 📄
 
-This project is licensed under the **MIT License**.  
+This project is licensed under the **Apache License 2.0**.  
 See [LICENSE](https://drive.google.com/file/d/1pvfgGY-Yzy0ZYwu-RqBredOR65AXPjMq/view?usp=sharing) for more information.
+
 
